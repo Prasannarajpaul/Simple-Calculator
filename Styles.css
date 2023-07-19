@@ -1,0 +1,33 @@
+body{
+    background-image: url("https://thumbs.dreamstime.com/b/numbers-vector-background-blue-colored-different-sizes-pattern-seamless-tile-white-202282653.jpg");
+}
+#Container{
+    position: relative;
+    margin: auto;
+    background-color:lightslategray;
+    height:400px;
+    width:400px;
+    border:5px solid black;
+    border-radius: 5%;
+}
+h1{
+    margin-left: 50px;
+    color: black;
+}
+.inputs{
+    margin-left:100px ;
+}
+.actions{
+    margin-left: 50px;
+}
+.outputs{
+    position: relative;
+    margin-left: 110px;
+    
+}
+#button{
+    height:20px;
+    width:70px;
+    color: black;
+    background-color: aliceblue;
+}
